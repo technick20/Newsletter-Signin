@@ -25,5 +25,6 @@ or
 * Hit star button if you like this project.
 
 
-<img src="https://user-images.githubusercontent.com/64360913/125171108-0a77c280-e1d0-11eb-986b-e1448ab8f9da.png" width="750" height="400"/>
+![Screenshot (107)](https://user-images.githubusercontent.com/64360913/125171469-09e02b80-e1d2-11eb-880f-6b23028ce4d1.png)
+
 
